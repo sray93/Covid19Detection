@@ -1,3 +1,4 @@
+This database is huge (of the order of gigabytes) and requires a very high computation capacity. The link to the dataset is https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 Hence please run it on the kaggle notebook as per the instructions below.
 Login to Kaggle
 Go to the given Kaggle link: https://www.kaggle.com/preronadutta/knn-approach
