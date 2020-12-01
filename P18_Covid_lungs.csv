@@ -1,0 +1,39 @@
+,Comments/suggestions
+Instructor,"Relevant project idea with amazing results! Great presentation too. Excellent work everyone.
+
+Good project overall, but exceed 5-minute limits, and the content is not organized well. A table of all prediction results wiil be clearer for comparisons."
+0,
+1,"Nice work. There is scope of improvement in terms of how the presentation was conducted. Little things like doing the presentation in a full screen, using a constant pace for background narration go a long way towards helping viewers focus on your content. "
+2,
+3,Interesting project. Respectful attempt to relate research to ongoing event. Presentation includes too many text and is not attractive enough.
+4,"Presenters exceeded the time limit, which is a major negative aspect for me. Secondly, I would like to know briefly what independent variable were used in KNN."
+5,Would using just the Deep Learning Models be as good as a covid test? Or would this just be a pre screening process?
+6,a few technical difficulties during presentation and slides are not shown in presentation mode. Presentation is over the 5 minute limit
+7,Maybe a little more description of the CNN model with Transfer learning should have been described in the presentation. 
+8,I liked the idea
+9,"Video slicing, full screen presentation"
+10,"I didn't understand your goal very clearly. It seemed that you were simply re-testing other papers that have been published rather than attempting a novel approach. However, I without a clearly stated goal, it made it difficult to understand how to evaluate your results. 
+
+I also found your presentation to be choppy. Consider creating more flow between slides and reducing the text on your slides."
+11,"Their approach was a usual one, but the topic was interesting along with the depth in which results were presented. Good use in the era of COVID."
+12,The project topic was interesting and was presented well.
+13,"Cool idea considering the current pandemic situation, insights presented per model are great too, more could have been added regarding transfer learning."
+14,Too long. Should have followed the time limit. Needed to be more objective relative to objective. Very generic in explanation.
+15,"- What augmentation did you use? (In reality you can use many augmentation but only some work best).
+- The change of pace all of sudden towards the end of presentation was off putting."
+16,
+17,
+18,Good Presentation
+19,Hope to see more detailed results
+20,"I liked the explanation of methodology used in the models, but lost focus after minute 4 - better presentation needed  "
+21,"Since both precision and recall are important metrics when it comes to medical diagnoses, F1 score is the ideal metric to use to evaluate model performance."
+22,
+23,"The presentation was hard to follow, it was longer than 5 mins and there was silence in the middle for about 15s. To begin with the presentation can be polished up. Some of the approaches didn't add up like using RNN for the data that was described should be reinvestigated as there is no temporal dependency. Moreover, some of the results in the slides were not representative of what the speaker mentioned - like it was mentioned in slide 12 that there are 8 bins but the image shows around 250 bins."
+24,Some of the participants did not seem to have a very good idea about the project.
+25,The pitch was longer than allocated time. Could not see anything novel in the project.
+26,"It is exciting to see a project related to COVID. The team may use more graphs and diagrams to illustrate their project results other than texts. Besides, they may try different CNN structure in their project. "
+27,"The end of the presentation was slightly messy, and a little overtime. However, I feel this may be acceptable given the high detail of the content."
+28,"I think the team did a good review of existing methods and system. However, with all the work they did, the conclusion they arrived at was already established by one of their references. I think they are not adding anything new to the existing scenario."
+29,
+30,The presentation included too much data for the user to grasp and it over shoot the time limit of 5 mins as well. Better stay within the limits and reduce the information on slides to make the pitch a little stronger. Good results btw.
+31,"Accuracy can be increased with the usage of VGGNets or DenseNets. Along with recall, precision is also important in today's time of COVID. F1 score as a main metric would have done better I think."
